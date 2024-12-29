@@ -4,6 +4,7 @@
 
 Before I moved to the U.S., my mom often warned me, "It’s different from Taiwan. Don’t go to dangerous places." I didn't take it seriously, thinking, “Come on! That won’t happen to me.” I didn’t believe it until I experienced it myself.
 
+![Alt Text](https://github.com/OuOLeaf/Bayesian_Crime_Map/blob/main/readme-photo/Heatmap.png?raw=true)
 <p align="center">
   
 </p>
