@@ -9,7 +9,7 @@ Before I moved to the U.S., my mom often warned me, "It’s different from Taiwa
   
 </p>
 <img src="https://github.com/OuOLeaf/200-Miilion-Invoice-Data-Analysis/blob/main/readme-photo/invoice_title.png?raw=true" width="400" height="300"/>
-<img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/main/readme-photo/EyeBall.png?raw=true" width="450" height="300"/>
+<img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/EyeBall.png?raw=true" width="450" height="300"/>
 During a break in a busy semester, I went on a road trip to Dallas to visit the Giant Eyeball downtown. After parking near the spot, a strange man started yelling at me, and I noticed someone moving oddly in the shadows. That’s when I realized the danger. Why hadn’t I prepared for this?
 
 After that trip, I decided to learn more about where I live—specifically, which areas in Houston are relatively dangerous—and embarked on this project.
