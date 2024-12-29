@@ -22,7 +22,7 @@ A Bayesian model adapts like memory, recalling its prior knowledge and updating 
 
 ### Result
 
-<p align="center"><img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/Heatmap.png?raw=true" width="400" height="300"/></p>
+<p align="center"><img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/Heatmap.png?raw=true" width="800" height="600"/></p>
 
 Let’s see the result. In Houston City, the most dangerous places are South Central, Central to Westside, followed by northern regions, then southern regions. With this map, next time somebody plans to visit or rent a place in Houston, I can share my results to help them make informed decisions. Plus, I connected with a friend, Melisa, who works in the police station thanks to this project. She validated my findings as well. 😉
 
