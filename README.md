@@ -26,14 +26,6 @@ Let's see the result. In Houston City, the most dangerous places are South Centr
 
 Through this project, I learned how crimes distribute in Houston and gained a clear understanding of how Bayesian models work. 
 
-### Repository Structure
-
-- **R-scripts/**: Contains all R code used for data processing and analysis
-  - `EDA.R`: Exploratory data analysis of crime data
-  - `final_project.R`: Data cleaning and preparation
-  - `poisson_gamma_model.R`: Implementation of the Poisson-Gamma Bayesian model
-  - `simple_reg_S.R`: Simple regression models for crime analysis
-  - `pie_chart.R`: Pie chart generation for crime type distribution
 
 ### Full Analysis
 
