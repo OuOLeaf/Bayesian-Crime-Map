@@ -35,19 +35,6 @@ Through this project, I learned how crimes distribute in Houston and gained a cl
   - `simple_reg_S.R`: Simple regression models for crime analysis
   - `pie_chart.R`: Pie chart generation for crime type distribution
 
-- **data/**: Contains processed datasets and analysis results
-  - `beta_1.csv`: Coefficient analysis results from Bayesian models
-  - `groupA_table.csv`: Group A crime statistics by police district
-
-- **plot/**: Visualization outputs
-  - Crime distribution plots
-  - Heatmaps by crime group and region
-  - Pie charts showing crime type distributions
-
-- **Report/**: Final project reports and presentations
-  - `BayesianFinalDraft-Yu-Ting Yeh.pdf`: Comprehensive final report
-  - `BayesianFinalSlide-Yu-Ting Yeh.pdf`: Presentation slides
-
 ### Full Analysis
 
 For the complete analysis, please check out the full report: [Bayesian Crime Map](./Bayesian_Crime_Map.pdf)
