@@ -2,13 +2,11 @@
 
 ### Motivation
 
-Before I moved to the U.S., my mom often warned me, "It’s different from Taiwan. Don’t go to dangerous places." I didn't take it seriously, thinking, “Come on! That won’t happen to me.” I didn’t believe it until I experienced it myself.
+Before I moved to the U.S., my mom often warned me, "It's different from Taiwan. Don't go to dangerous places." I didn't take it seriously, thinking, "Come on! That won't happen to me." I didn't believe it until I experienced it myself.
 
-<p align="center">
-  <img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/EyeBall.png?raw=true" width="450" height="300"/>
-</p>
+<p align="center"><img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/EyeBall.png?raw=true" width="450" height="300"/></p>
 
-During a break in a busy semester, I went on a road trip to Dallas to visit the Giant Eyeball downtown. After parking near the spot, a strange man started yelling at me, and I noticed someone moving oddly in the shadows. That’s when I realized the danger. Why hadn’t I prepared for this?
+During a break in a busy semester, I went on a road trip to Dallas to visit the Giant Eyeball downtown. After parking near the spot, a strange man started yelling at me, and I noticed someone moving oddly in the shadows. That's when I realized the danger. Why hadn't I prepared for this?
 
 After that trip, I decided to learn more about where I live—specifically, which areas in Houston are relatively dangerous—and embarked on this project.
 
@@ -22,10 +20,34 @@ A Bayesian model adapts like memory, recalling its prior knowledge and updating 
 
 ### Result
 
-<p align="center"><img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/Heatmap.png?raw=true" width="600" height="450"/></p>
+<p align="center"><img src="https://github.com/OuOLeaf/Bayesian-Crime-Map/blob/master/readme-photo/Heatmap.png?raw=true" width="400" height="300"/></p>
 
-Let’s see the result. In Houston City, the most dangerous places are South Central, Central to Westside, followed by northern regions, then southern regions. With this map, next time somebody plans to visit or rent a place in Houston, I can share my results to help them make informed decisions. Plus, I connected with a friend, Melisa, who works in the police station thanks to this project. She validated my findings as well. 😉
+Let's see the result. In Houston City, the most dangerous places are South Central, Central to Westside, followed by northern regions, then southern regions. With this map, next time somebody plans to visit or rent a place in Houston, I can share my results to help them make informed decisions. Plus, I connected with a friend, Melisa, who works in the police station thanks to this project. She validated my findings as well. 😉
 
 Through this project, I learned how crimes distribute in Houston and gained a clear understanding of how Bayesian models work. 
 
-For the full analysis, feel free to check it out! [Bayesian Crime Map](./Bayesian_Crime_Map.pdf)
+### Repository Structure
+
+- **R-scripts/**: Contains all R code used for data processing and analysis
+  - `EDA.R`: Exploratory data analysis of crime data
+  - `final_project.R`: Data cleaning and preparation
+  - `poisson_gamma_model.R`: Implementation of the Poisson-Gamma Bayesian model
+  - `simple_reg_S.R`: Simple regression models for crime analysis
+  - `pie_chart.R`: Pie chart generation for crime type distribution
+
+- **data/**: Contains processed datasets and analysis results
+  - `beta_1.csv`: Coefficient analysis results from Bayesian models
+  - `groupA_table.csv`: Group A crime statistics by police district
+
+- **plot/**: Visualization outputs
+  - Crime distribution plots
+  - Heatmaps by crime group and region
+  - Pie charts showing crime type distributions
+
+- **Report/**: Final project reports and presentations
+  - `BayesianFinalDraft-Yu-Ting Yeh.pdf`: Comprehensive final report
+  - `BayesianFinalSlide-Yu-Ting Yeh.pdf`: Presentation slides
+
+### Full Analysis
+
+For the complete analysis, please check out the full report: [Bayesian Crime Map](./Bayesian_Crime_Map.pdf)
